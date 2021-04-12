@@ -1,0 +1,24 @@
+{
+  "name": "xblr",
+  "version": "0.0.1",
+  "description": "Extensible Business Reporting Language parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icastillejogomez/xblr.git"
+  },
+  "keywords": [
+    "XBLR",
+    "XBLR",
+    "parser"
+  ],
+  "author": "Ignacio F. Castillejo Gómez",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/icastillejogomez/xblr/issues"
+  },
+  "homepage": "https://github.com/icastillejogomez/xblr#readme"
+}
